@@ -1,4 +1,3 @@
 # Coffee-Website
-https://bespoke-creponne-442def.netlify.app/
-contact : ubiquitous-nougat-4c21e7.netlify.app
- 
+https://lamxuanthinh.github.io/Coffee-Website/
+contact : https://ubiquitous-nougat-4c21e7.netlify.app/?fbclid=IwAR3vtyth_exlQtg0zKwb-IlTb-CjS9-MX4PpWmuyfNAjzpJDsR7CBkXV5DQ
